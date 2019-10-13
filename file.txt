@@ -1,1 +1,3 @@
 I am learning git.
+
+I am now editing my text file. 
